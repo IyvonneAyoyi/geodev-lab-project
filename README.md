@@ -8,14 +8,14 @@ A geospatial project investigating potential flood exposure of settlements in Na
 
 ## Data Sources
 
-* **GRID3** — Settlement extents
-* **SRTM / Copernicus DEM** — Elevation data
-* **OpenStreetMap (OSM)** — Rivers and waterways
-* **Administrative boundary data** — Nairobi County boundary
+* **GRID3** - Settlement extents
+* **SRTM / Copernicus DEM** - Elevation data
+* **OpenStreetMap (OSM)** - Rivers and waterways
+* **Administrative boundary data** - Nairobi County boundary
 
 ## Project Status
 
-**In Progress — Project planning and data discovery**
+**In Progress - Project planning and data discovery**
 
 This project is being developed as part of the **GeoDev Lab mentorship programme**.
 
